@@ -68,6 +68,8 @@
     }
   },
   "TRIAL_GROUPS": {},
-  "RESELLERS": [],
+  "RESELLERS": [
+    "6798489287"
+  ],
   "TRIAL_USAGE": {}
 }
