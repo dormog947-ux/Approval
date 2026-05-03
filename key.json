@@ -59,7 +59,6 @@
     "DEV-F4D75DDD4F96",
     "DEV-4A07B49393C5",
     "DEV-F6B16E0C6287",
-    "DEV-9FBA4D7E50AB",
     "DEV-B064D4A08591",
     "DEV-610643274894",
     "DEV-1EBFD7897B4D",
@@ -94,7 +93,6 @@
     "DEV-1C5DA16216E1": 1779688803,
     "DEV-F4D75DDD4F96": 1777878118,
     "DEV-F6B16E0C6287": 1777874810,
-    "DEV-9FBA4D7E50AB": 1777792099,
     "DEV-1EBFD7897B4D": 1780381718,
     "DEV-98A3B7B903C3": 1780382429,
     "DEV-8DC5F98861CC": 1780382448,
@@ -153,6 +151,11 @@
       "lifetime": 0
     },
     "6257409394": {
+      "time_bank": 0,
+      "month": 0,
+      "lifetime": 0
+    },
+    "8506411819": {
       "time_bank": 0,
       "month": 0,
       "lifetime": 0
