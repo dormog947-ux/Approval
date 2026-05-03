@@ -61,7 +61,12 @@
       "lifetime": 0
     }
   },
-  "TRIAL_GROUPS": {},
+  "TRIAL_GROUPS": {
+    "@starlink_nocode": {
+      "freq": 2,
+      "hrs": 1.0
+    }
+  },
   "RESELLERS": [
     "6798489287",
     "7812657811",
