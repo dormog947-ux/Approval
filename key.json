@@ -24,9 +24,26 @@
     "DEV-B3EE60844ACA": 1777784153
   },
   "USERS": {
-    "6751273501": 1,
-    "6798489287": 99,
-    "5832831131": 50
+    "6751273501": {
+      "time_bank": 1.0,
+      "month": 0,
+      "lifetime": 0
+    },
+    "6798489287": {
+      "time_bank": 99.0,
+      "month": 0,
+      "lifetime": 0
+    },
+    "5832831131": {
+      "time_bank": 50.0,
+      "month": 0,
+      "lifetime": 0
+    },
+    "8363372270": {
+      "time_bank": 0,
+      "month": 0,
+      "lifetime": 0
+    }
   },
   "TRIAL_GROUPS": {},
   "RESELLERS": [],
