@@ -223,7 +223,8 @@
     "DEV-999818B64072",
     "DEV-C522A5C46439",
     "DEV-EEEC5B319813",
-    "DEV-E5149E371796"
+    "DEV-E5149E371796",
+    "DEV-2F881DCF774C"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -471,7 +472,7 @@
     "8339110851": {
       "time_bank": 0,
       "month": 0,
-      "lifetime": 5
+      "lifetime": 4
     }
   },
   "TRIAL_GROUPS": {
