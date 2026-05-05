@@ -237,8 +237,7 @@
     "DEV-08D24F5A1F28",
     "DEV-5070087BF709",
     "DEV-0UHGF2HHH",
-    "DEV-UEDII88H",
-    "DEV-E2A0B6100DA6"
+    "DEV-UEDII88H"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -357,138 +356,8 @@
       "month": 0,
       "lifetime": 0
     },
-    "1781719297": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "6998937045": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "7515918803": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "8540557748": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "8228926796": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "6698784323": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "8567065324": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "8221992128": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "6491094430": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "8398631571": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "6991690383": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "5659574095": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "6193644824": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "7329292208": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "8236138513": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "6257409394": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "6980275135": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "8676611802": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "5575703566": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "8456436013": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "1902499941": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "5397726425": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "5100485519": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
     "5832831131": {
       "time_bank": 1000.0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "940569337": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "5240733546": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "8017822624": {
-      "time_bank": 0,
       "month": 0,
       "lifetime": 0
     },
@@ -496,36 +365,6 @@
       "time_bank": 0,
       "month": 0,
       "lifetime": 2
-    },
-    "5762373450": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "5685142200": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "1975712186": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "8066181176": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "8337992434": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "5867179853": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
     },
     "7812657811": {
       "time_bank": 0,
