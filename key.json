@@ -367,6 +367,11 @@
       "time_bank": 100.0,
       "month": 10,
       "lifetime": 10
+    },
+    "7550220055": {
+      "time_bank": 0,
+      "month": 0,
+      "lifetime": 10
     }
   },
   "TRIAL_GROUPS": {
