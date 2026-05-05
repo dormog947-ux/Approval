@@ -238,7 +238,8 @@
     "DEV-0UHGF2HHH",
     "DEV-UEDII88H",
     "DEV-E2A0B6100DA6",
-    "DEV-1410B3657ACD"
+    "DEV-1410B3657ACD",
+    "DEV-123"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -347,7 +348,7 @@
     "DEV-UDUDI88N": 1777996407,
     "DEV-5070087BF709": 1777980143,
     "DEV-0UHGF2HHH": 1777980242,
-    "DEV-1410B3657ACD": 1780571537
+    "DEV-123": 1778022990
   },
   "USERS": {
     "8339110851": {
@@ -381,7 +382,7 @@
       "lifetime": 10
     },
     "5832831131": {
-      "time_bank": 1000.0,
+      "time_bank": 988.0,
       "month": 100,
       "lifetime": 100
     }
