@@ -239,7 +239,8 @@
     "DEV-1410B3657ACD",
     "DEV-123",
     "DEV-36A5308F92D5",
-    "DEV-F43F1BDDA354"
+    "DEV-F43F1BDDA354",
+    "DEV-7817316E24C0"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -354,7 +355,7 @@
     "8339110851": {
       "time_bank": 0,
       "month": 0,
-      "lifetime": 2
+      "lifetime": 1
     },
     "7812657811": {
       "time_bank": 0,
