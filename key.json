@@ -211,7 +211,6 @@
     "DEV-41284BE38C73",
     "DEV-8954ECA0166C",
     "DEV-8D6FAFB88187",
-    "DEV-C4223FA78B39",
     "DEV-885F823BAB54",
     "DEV-449B4FE93C19",
     "DEV-AEBEAF53C3EA",
@@ -396,6 +395,11 @@
       "time_bank": 988.0,
       "month": 99,
       "lifetime": 100
+    },
+    "6130147402": {
+      "time_bank": 0,
+      "month": 0,
+      "lifetime": 0
     }
   },
   "TRIAL_GROUPS": {
