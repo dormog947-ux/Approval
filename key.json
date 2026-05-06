@@ -273,7 +273,8 @@
     "DEV-6DEB69021186",
     "DEV-001EF9506CC3",
     "DEV-84EA2013A825",
-    "DEV-ABAB0FB0B30E"
+    "DEV-ABAB0FB0B30E",
+    "DEV-00AA484C1F48"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -405,7 +406,8 @@
     "DEV-6DEB69021186": 1778139529,
     "DEV-001EF9506CC3": 1780645255,
     "DEV-84EA2013A825": 1778057204,
-    "DEV-ABAB0FB0B30E": 1778059350
+    "DEV-ABAB0FB0B30E": 1778059350,
+    "DEV-00AA484C1F48": 1778060017
   },
   "USERS": {
     "8339110851": {
@@ -419,7 +421,7 @@
       "lifetime": 0
     },
     "6798489287": {
-      "time_bank": 1.0,
+      "time_bank": 0.0,
       "month": 1,
       "lifetime": 7
     },
