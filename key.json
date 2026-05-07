@@ -299,7 +299,8 @@
     "DEV-F7F8AC7CACC5",
     "DEV-D2CA62CF3381",
     "DEV-E7235A43BE43",
-    "DEV-BC7211F2D8F3"
+    "DEV-BC7211F2D8F3",
+    "DEV-16D4CEC81165"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -445,7 +446,8 @@
     "DEV-F7F8AC7CACC5": 1778152525,
     "DEV-D2CA62CF3381": 1780737807,
     "DEV-E7235A43BE43": 1778156059,
-    "DEV-BC7211F2D8F3": 1778203000
+    "DEV-BC7211F2D8F3": 1778203000,
+    "DEV-16D4CEC81165": 1778158646
   },
   "USERS": {
     "8339110851": {
@@ -599,6 +601,11 @@
       "lifetime": 0
     },
     "8517130307": {
+      "time_bank": 0,
+      "month": 0,
+      "lifetime": 0
+    },
+    "8716115695": {
       "time_bank": 0,
       "month": 0,
       "lifetime": 0
@@ -857,6 +864,9 @@
     ],
     "8517130307_@starlink_nocode": [
       1778145325.5796757
+    ],
+    "8716115695_@starlink_nocode": [
+      1778151446.5354252
     ]
   },
   "KEY_CREATORS": {
