@@ -302,7 +302,8 @@
     "DEV-64F92FEDA3FA",
     "DEV-E0C350EAB3DB",
     "DEV-9D4498CF8F15",
-    "DEV-45E507378397"
+    "DEV-45E507378397",
+    "DEV-45AD8C5E2844"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -468,7 +469,7 @@
     "6751273501": {
       "time_bank": 100.0,
       "month": 6,
-      "lifetime": 3
+      "lifetime": 2
     },
     "7550220055": {
       "time_bank": 40.0,
