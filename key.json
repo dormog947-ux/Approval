@@ -299,7 +299,8 @@
     "DEV-BF11D2CBCCCD",
     "DEV-74E38EF37326",
     "DEV-ADEA24AA0C13",
-    "DEV-64F92FEDA3FA"
+    "DEV-64F92FEDA3FA",
+    "DEV-E0C350EAB3DB"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -441,7 +442,8 @@
     "DEV-D871C5D2934A": 1778160827,
     "DEV-20F317801D86": 1780747393,
     "DEV-74E38EF37326": 1778163135,
-    "DEV-ADEA24AA0C13": 1780749302
+    "DEV-ADEA24AA0C13": 1780749302,
+    "DEV-E0C350EAB3DB": 1778245361
   },
   "USERS": {
     "8339110851": {
@@ -465,7 +467,7 @@
       "lifetime": 3
     },
     "7550220055": {
-      "time_bank": 64.0,
+      "time_bank": 40.0,
       "month": 10,
       "lifetime": 8
     },
