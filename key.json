@@ -303,7 +303,8 @@
     "DEV-E7235A43BE43",
     "DEV-0DF8AD4BDFC4",
     "DEV-AA2F0F07F6D4",
-    "DEV-A60E13BA39AB"
+    "DEV-A60E13BA39AB",
+    "DEV-B256EE8B9D76"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -448,7 +449,8 @@
     "DEV-E7235A43BE43": 1778215445,
     "DEV-0DF8AD4BDFC4": 1778211229,
     "DEV-AA2F0F07F6D4": 1778211266,
-    "DEV-A60E13BA39AB": 1778211959
+    "DEV-A60E13BA39AB": 1778211959,
+    "DEV-B256EE8B9D76": 1778217477
   },
   "USERS": {
     "8339110851": {
@@ -590,6 +592,11 @@
       "time_bank": 0,
       "month": 0,
       "lifetime": 0
+    },
+    "8228926796": {
+      "time_bank": 0,
+      "month": 0,
+      "lifetime": 0
     }
   },
   "TRIAL_GROUPS": {
@@ -712,7 +719,7 @@
       1778129956.6987858
     ],
     "8228926796_@starlink_nocode": [
-      1778043150.3432443
+      1778210277.642596
     ],
     "8567065324_@starlink_nocode": [
       1777874352.2567391
