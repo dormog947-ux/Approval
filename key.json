@@ -440,11 +440,6 @@
       "month": 0,
       "lifetime": 4
     },
-    "7812657811": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
     "6798489287": {
       "time_bank": 473.0,
       "month": 0,
@@ -492,9 +487,7 @@
       "hrs": 0.0
     }
   },
-  "RESELLERS": [
-    "7812657811"
-  ],
+  "RESELLERS": [],
   "TRIAL_USAGE": {
     "5832831131_@starlink_nocode": [
       1778028358.0906394
