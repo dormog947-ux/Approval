@@ -485,11 +485,6 @@
       "month": 9,
       "lifetime": 8
     },
-    "5832831131": {
-      "time_bank": 988.0,
-      "month": 99,
-      "lifetime": 100
-    },
     "5228040013": {
       "time_bank": 4.0,
       "month": 0,
@@ -508,6 +503,11 @@
     "7812657811": {
       "time_bank": 76.0,
       "month": 9,
+      "lifetime": 0
+    },
+    "8363372270": {
+      "time_bank": 0,
+      "month": 0,
       "lifetime": 0
     }
   },
