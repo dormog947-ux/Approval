@@ -305,7 +305,8 @@
     "DEV-36A5308F92D5",
     "DEV-0DF8AD4BDFC4",
     "DEV-36C8A85DFB33",
-    "DEV-7668667BED06"
+    "DEV-7668667BED06",
+    "DEV-3BBC573DB423"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -466,7 +467,7 @@
     "7550220055": {
       "time_bank": 39.0,
       "month": 10,
-      "lifetime": 8
+      "lifetime": 7
     },
     "8307685377": {
       "time_bank": 240.0,
@@ -827,5 +828,5 @@
   },
   "GLOBAL_LOCK": false,
   "LOCKED_USERS": [],
-  "SIGNATURE": "9a17580e49753968c4da494a0da451a4da881354c2416a7265f708b98f1c9c1e"
+  "SIGNATURE": "7c7f4713bc76dfe03199143fd97009fefe96e2efa1407c299863979a990c917f"
 }
