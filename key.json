@@ -489,8 +489,8 @@
   },
   "TRIAL_GROUPS": {
     "@starlink_nocode": {
-      "freq": 0,
-      "hrs": 0.0
+      "freq": 1,
+      "hrs": 5.0
     }
   },
   "RESELLERS": [],
