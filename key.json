@@ -551,7 +551,7 @@
   },
   "TRIAL_GROUPS": {
     "@starlink_nocode": {
-      "freq": 5,
+      "freq": 4,
       "hrs": 1.0
     }
   },
