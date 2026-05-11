@@ -689,6 +689,10 @@
     "6257409394": {
       "time_bank": 0,
       "pro_bank": 0
+    },
+    "8339110851": {
+      "time_bank": 0,
+      "pro_bank": 3600.0
     }
   },
   "TRIAL_GROUPS": {
@@ -1072,5 +1076,6 @@
   },
   "GLOBAL_LOCK": false,
   "LOCKED_USERS": [],
+  "SECRET_KEY": "RenderSecretKey2026!@#",
   "SIGNATURE": "4e544238a13730c6ed380967a05e2037762e743c2fa909ac70170d45a03f2b00"
 }
