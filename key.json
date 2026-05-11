@@ -445,7 +445,8 @@
     "DEV-DDBB3C80CF5E": 1778491598,
     "DEV-6AF43F83E793": 1778491677,
     "DEV-678347C5FB0E": 1778491718,
-    "DEV-9D4498CF8F15": 1778492943
+    "DEV-9D4498CF8F15": 1778492943,
+    "DEV-45AD8C5E2844": 1781077954
   },
   "USERS": {
     "8339110851": {
@@ -460,7 +461,7 @@
     },
     "6751273501": {
       "time_bank": 100.0,
-      "month": 1,
+      "month": 0,
       "lifetime": 0
     },
     "7550220055": {
@@ -942,5 +943,5 @@
   },
   "GLOBAL_LOCK": false,
   "LOCKED_USERS": [],
-  "SIGNATURE": "9a17580e49753968c4da494a0da451a4da881354c2416a7265f708b98f1c9c1e"
+  "SIGNATURE": "4af5a1f38adbc89e007a0503dd354b9c9e55df59c44e191f08d776787c417958"
 }
