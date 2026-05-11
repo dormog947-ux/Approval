@@ -300,7 +300,8 @@
     "DEV-12345",
     "DEV-2BECF30900CA",
     "DEV-FAD1ED07EB32",
-    "DEV-7DF708CB3CBE"
+    "DEV-7DF708CB3CBE",
+    "DEV-C226C07AEA2F"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -605,14 +606,15 @@
     "DEV-023F66669367": 1783692377,
     "DEV-842732E482E7": 1783692377,
     "DEV-6BF38BBFCAC2": 1783692377,
-    "DEV-FAD1ED07EB32": 1778601929
+    "DEV-FAD1ED07EB32": 1778601929,
+    "DEV-C226C07AEA2F": 1778602854
   },
   "USERS": {
     "6798489287": {
       "time_bank": 473.0,
       "month": 0,
       "lifetime": 1,
-      "pro_bank": 1700.0
+      "pro_bank": 1676.0
     },
     "6751273501": {
       "time_bank": 1536.0,
@@ -1062,5 +1064,5 @@
   "GLOBAL_LOCK": false,
   "LOCKED_USERS": [],
   "SECRET_KEY": "RenderSecretKey2026!@#",
-  "SIGNATURE": "dad5b10b5527e9e0d1af84ea5bfaa6bd443eb30808c7d2813e3c22c9629d7543"
+  "SIGNATURE": "bc7b990c1bed83c5d2bffac1ebaf898531032e9ce25b657084389ca720883d75"
 }
