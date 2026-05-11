@@ -620,70 +620,47 @@
     "DEV-6BF38BBFCAC2": 1783692377
   },
   "USERS": {
-    "8339110851": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 4
-    },
     "6798489287": {
       "time_bank": 473.0,
       "month": 0,
-      "lifetime": 1
+      "lifetime": 1,
+      "pro_bank": 0
     },
     "6751273501": {
       "time_bank": 96.0,
       "month": 0,
-      "lifetime": 0
+      "lifetime": 0,
+      "pro_bank": 0
     },
     "7550220055": {
       "time_bank": 37.0,
       "month": 9,
-      "lifetime": 7
-    },
-    "8307685377": {
-      "time_bank": 0.0,
-      "month": 9,
-      "lifetime": 6
+      "lifetime": 7,
+      "pro_bank": 0
     },
     "5228040013": {
       "time_bank": 4.0,
       "month": 0,
-      "lifetime": 1
+      "lifetime": 1,
+      "pro_bank": 0
     },
     "8523828458": {
       "time_bank": 2249.0,
       "month": 3,
-      "lifetime": 0
+      "lifetime": 0,
+      "pro_bank": 0
     },
     "6005906430": {
       "time_bank": 3782.0,
       "month": 0,
-      "lifetime": 0
+      "lifetime": 0,
+      "pro_bank": 0
     },
     "7812657811": {
       "time_bank": 76.0,
       "month": 9,
-      "lifetime": 0
-    },
-    "5397726425": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "6011233171": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "7253325996": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
-    },
-    "5841743531": {
-      "time_bank": 0,
-      "month": 0,
-      "lifetime": 0
+      "lifetime": 0,
+      "pro_bank": 0
     }
   },
   "TRIAL_GROUPS": {
