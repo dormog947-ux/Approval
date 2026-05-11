@@ -636,7 +636,7 @@
       "time_bank": 37.0,
       "month": 9,
       "lifetime": 7,
-      "pro_bank": 0
+      "pro_bank": 3600.0
     },
     "5228040013": {
       "time_bank": 4.0,
