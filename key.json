@@ -307,7 +307,8 @@
     "DEV-CBFD847BFE49",
     "DEV-3C475E354EB5",
     "DEV-7DF708CB3CBE",
-    "DEV-F5A252DBC5B4"
+    "DEV-F5A252DBC5B4",
+    "DEV-F17C4E6B63D1"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -448,7 +449,8 @@
     "DEV-CBFD847BFE49": 1778512263,
     "DEV-3C475E354EB5": 1778512753,
     "DEV-7DF708CB3CBE": 1778512836,
-    "DEV-F5A252DBC5B4": 1778513305
+    "DEV-F5A252DBC5B4": 1778513305,
+    "DEV-F17C4E6B63D1": 1778513535
   },
   "USERS": {
     "8339110851": {
@@ -507,6 +509,11 @@
       "lifetime": 0
     },
     "7253325996": {
+      "time_bank": 0,
+      "month": 0,
+      "lifetime": 0
+    },
+    "5841743531": {
       "time_bank": 0,
       "month": 0,
       "lifetime": 0
@@ -834,7 +841,8 @@
     ],
     "5841743531_@starlink_nocode": [
       1778424025.6007128,
-      1778493003.0900362
+      1778493003.0900362,
+      1778506335.0725408
     ],
     "6788181226_@starlink_nocode": [
       1778475867.4727058,
@@ -887,5 +895,5 @@
   },
   "GLOBAL_LOCK": false,
   "LOCKED_USERS": [],
-  "SIGNATURE": "884c7995030ad812965ed4f2377f97ee574c1772d78f740cd034ddd10ff8b42f"
+  "SIGNATURE": "027733cd61415bc3fb4829dcf066545ffbfb4e99aafaebcf1b22c7665ee5de45"
 }
