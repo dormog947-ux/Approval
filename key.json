@@ -658,37 +658,9 @@
       "time_bank": 0,
       "pro_bank": 3600.0
     },
-    "7774560051": {
-      "time_bank": 0,
-      "pro_bank": 0
-    },
     "5832831131": {
       "time_bank": 1000.0,
       "pro_bank": 1000.0
-    },
-    "8540557748": {
-      "time_bank": 0,
-      "pro_bank": 0
-    },
-    "6570200877": {
-      "time_bank": 0,
-      "pro_bank": 0
-    },
-    "7253325996": {
-      "time_bank": 0,
-      "pro_bank": 0
-    },
-    "8030540922": {
-      "time_bank": 0,
-      "pro_bank": 0
-    },
-    "5408399956": {
-      "time_bank": 0,
-      "pro_bank": 0
-    },
-    "6698784323": {
-      "time_bank": 0,
-      "pro_bank": 0
     }
   },
   "TRIAL_GROUPS": {
@@ -1080,6 +1052,5 @@
   },
   "GLOBAL_LOCK": false,
   "LOCKED_USERS": [],
-  "SECRET_KEY": "RenderSecretKey2026!@#",
   "SIGNATURE": "e694cd1a4715877f95fafe7316fa8067c8050dea97b7f6c2a98c643cba526c17"
 }
