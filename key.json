@@ -649,12 +649,15 @@
     },
     "8017822624": {
       "time_bank": 0
+    },
+    "8559376077": {
+      "time_bank": 0
     }
   },
   "TRIAL_GROUPS": {
     "@starlink_nocode": {
-      "freq": 0,
-      "hrs": 0.0
+      "freq": 1,
+      "hrs": 1.0
     }
   },
   "RESELLERS": [],
