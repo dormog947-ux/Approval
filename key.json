@@ -687,7 +687,8 @@
       "month": 9,
       "lifetime": 7,
       "pro_bank": 0,
-      "credit": 0
+      "credit": 20,
+      "demo": 0
     },
     "5228040013": {
       "time_bank": 360.0,
