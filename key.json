@@ -292,7 +292,6 @@
     "DEV-3C475E354EB5",
     "DEV-2BECF30900CA",
     "DEV-7A1740DCC0FA",
-    "DEV-1AB3850D84CE",
     "DEV-6CD2B0A7BBA2"
   ],
   "EXPIRATIONS": {
@@ -420,7 +419,6 @@
     "DEV-57C83851EB08": 1779265540,
     "DEV-A9CCFAD82821": 1780231806,
     "DEV-3C475E354EB5": 1781109920,
-    "DEV-1AB3850D84CE": 1778747099,
     "DEV-9CAF0AB52D8E": 1783927707,
     "DEV-A3687E31C381": 1783927707,
     "DEV-959BB6BF2392": 1783927707,
@@ -635,8 +633,8 @@
       "pro_bank": 0
     },
     "8307685377": {
-      "time_bank": 3600.0,
-      "pro_bank": 3600.0
+      "time_bank": 7200.0,
+      "pro_bank": 0
     },
     "8339110851": {
       "time_bank": 0,
@@ -645,6 +643,9 @@
     "5832831131": {
       "time_bank": 1000.0,
       "pro_bank": 1000.0
+    },
+    "7018730358": {
+      "time_bank": 0
     }
   },
   "TRIAL_GROUPS": {
@@ -1057,5 +1058,5 @@
   "GLOBAL_LOCK": false,
   "LOCKED_USERS": [],
   "PRO_EXPIRATIONS": {},
-  "SIGNATURE": "f49e06ea8d761a695517ce418aa59b75b9da3d5363ea362213119a8102ef195e"
+  "SIGNATURE": "cd04a0fc33383f40658faf1a08d5dad13e59bef009dff0b563a202dd20be3837"
 }
