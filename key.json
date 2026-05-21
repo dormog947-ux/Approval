@@ -355,7 +355,8 @@
     "DEV-742C0B4A7FFB",
     "DEV-9ACE615A01D6",
     "DEV-66C045D768AE",
-    "DEV-755EBCB9C86B"
+    "DEV-755EBCB9C86B",
+    "DEV-D530DB539D2B"
   ],
   "EXPIRATIONS": {
     "DEV-865C5505C27C": 1779509722,
@@ -713,7 +714,8 @@
     "DEV-742C0B4A7FFB": 1779960367,
     "DEV-9ACE615A01D6": 1779359421,
     "DEV-66C045D768AE": 1779359617,
-    "DEV-755EBCB9C86B": 1779359716
+    "DEV-755EBCB9C86B": 1779359716,
+    "DEV-D530DB539D2B": 1779961394
   },
   "USERS": {
     "6798489287": {
@@ -761,7 +763,7 @@
       "month": 9,
       "lifetime": 0,
       "pro_bank": 0,
-      "credit": 3,
+      "credit": 2,
       "demo": 0
     },
     "8307685377": {
@@ -797,6 +799,10 @@
       "demo": 0
     },
     "6429077901": {
+      "credit": 0,
+      "demo": 0
+    },
+    "5838745368": {
       "credit": 0,
       "demo": 0
     }
@@ -1738,9 +1744,10 @@
     "DEV-6548FB46EA68": "8307685377",
     "DEV-7E87414C1FE6": "8307685377",
     "DEV-742C0B4A7FFB": "8540557748",
-    "DEV-9ACE615A01D6": "8540557748"
+    "DEV-9ACE615A01D6": "8540557748",
+    "DEV-D530DB539D2B": "7812657811"
   },
   "GLOBAL_LOCK": false,
   "LOCKED_USERS": [],
-  "SIGNATURE": "dc6f781d6fa220e7f1fcbcbc828db36d347819794d509ba041b8608713be169d"
+  "SIGNATURE": "094ade32405fced745d20dc685fced3ca0eb1ce820e5b48fc7df5f0c41115e49"
 }
