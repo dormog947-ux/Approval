@@ -753,12 +753,16 @@
     "8624394037": {
       "credit": 0,
       "demo": 0
+    },
+    "6875149977": {
+      "credit": 0,
+      "demo": 0
     }
   },
   "TRIAL_GROUPS": {
     "@starlink_nocode": {
-      "window": 0.0,
-      "freq": 0,
+      "window": 120.0,
+      "freq": 1,
       "hrs": 1.0
     }
   },
