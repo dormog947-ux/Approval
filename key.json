@@ -326,7 +326,6 @@
     "DEV-8CC69220FB41",
     "DEV-4C43991EAEBE",
     "DEV-8CEEE71F6477",
-    "DEV-432A85F56F75",
     "DEV-26AC00F23234",
     "DEV-BC64F344F34F"
   ],
@@ -657,7 +656,6 @@
     "DEV-4C43991EAEBE": 1780201663,
     "DEV-8CEEE71F6477": 1780205392,
     "DEV-B78916E3CBE3": 1783945939,
-    "DEV-432A85F56F75": 1779675298,
     "DEV-26AC00F23234": 1779675917,
     "DEV-BC64F344F34F": 1779676461
   },
@@ -779,6 +777,10 @@
       "demo": 0
     },
     "6622748081": {
+      "credit": 0,
+      "demo": 0
+    },
+    "8779467451": {
       "credit": 0,
       "demo": 0
     }
@@ -1730,5 +1732,5 @@
   },
   "GLOBAL_LOCK": false,
   "LOCKED_USERS": [],
-  "SIGNATURE": "7dddb602c39cea4768de96e0febf11b0fad61d0d0b1e8b7876b11243caa107bc"
+  "SIGNATURE": "3dd9c4f30e304c14c9173d70147d14ba5a4800c7c4045ee58ed708794e845390"
 }
