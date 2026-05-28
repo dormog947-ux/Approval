@@ -306,7 +306,6 @@
     "DEV-B39EF087664C",
     "DEV-4B78810880BE",
     "DEV-FAD1ED07EB32",
-    "DEV-107928A86F0C",
     "DEV-E96E7D4DA8D7"
   ],
   "EXPIRATIONS": {
@@ -616,7 +615,6 @@
     "DEV-B39EF087664C": 1780476004,
     "DEV-4B78810880BE": 1782483667,
     "DEV-FAD1ED07EB32": 1780557745,
-    "DEV-107928A86F0C": 1779967970,
     "DEV-E96E7D4DA8D7": 1779969436
   },
   "USERS": {
@@ -757,6 +755,10 @@
       "demo": 0
     },
     "8475105021": {
+      "credit": 0,
+      "demo": 0
+    },
+    "8375128662": {
       "credit": 0,
       "demo": 0
     }
@@ -1749,5 +1751,5 @@
   },
   "GLOBAL_LOCK": false,
   "LOCKED_USERS": [],
-  "SIGNATURE": "94601bc5e0126409217b4a3260a239a3a3fd6255e8babdd270ff3611ff99ef6d"
+  "SIGNATURE": "00e27272cd4088211e154a38857bb49c972ea602934b476cd0b7d7d51a8de3be"
 }
