@@ -540,6 +540,11 @@
       "window": 120.0,
       "freq": 1,
       "hrs": 1.0
+    },
+    "@demogroup": {
+      "window": 0.0,
+      "freq": 0,
+      "hrs": 0.0
     }
   },
   "RESELLERS": [],
