@@ -558,9 +558,9 @@
   },
   "TRIAL_GROUPS": {
     "@starlink_nocode": {
-      "window": 120.0,
+      "window": 24.0,
       "freq": 1,
-      "hrs": 24.0
+      "hrs": 12.0
     },
     "@demogroup": {
       "window": 0.0,
