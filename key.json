@@ -598,7 +598,7 @@
     "@starlink_nocode": {
       "window": 24.0,
       "freq": 1,
-      "hrs": 3.0
+      "hrs": 24.0
     },
     "@demogroup": {
       "window": 0.0,
