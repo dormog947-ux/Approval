@@ -270,9 +270,9 @@
   },
   "TRIAL_GROUPS": {
     "@starlink_nocode": {
-      "window": 24.0,
-      "freq": 1,
-      "hrs": 2.0
+      "window": 0.0,
+      "freq": 0,
+      "hrs": 0.0
     },
     "@demogroup": {
       "window": 0.0,
