@@ -319,7 +319,7 @@
   "TRIAL_GROUPS": {
     "@starlink_nocode": {
       "window": 24.0,
-      "freq": 1,
+      "freq": 2,
       "hrs": 24.0
     },
     "@demogroup": {
