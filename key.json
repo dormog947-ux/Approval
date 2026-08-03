@@ -18,7 +18,6 @@
     "DEV-44268AAA8C98",
     "DEV-B02069C76BD5",
     "DEV-9DEE538CCC07",
-    "DEV-EF5ED2F4A07F",
     "DEV-ACB4F03394FC",
     "DEV-742F09E9CCF6",
     "DEV-492DBD1D7E01",
@@ -43,7 +42,6 @@
     "DEV-44268AAA8C98": 1787147420,
     "DEV-B02069C76BD5": 1787368525,
     "DEV-9DEE538CCC07": 1786197408,
-    "DEV-EF5ED2F4A07F": 1785745456,
     "DEV-ACB4F03394FC": 1785746642,
     "DEV-742F09E9CCF6": 1785760303,
     "DEV-492DBD1D7E01": 1785763318,
@@ -312,6 +310,14 @@
       "demo": 0
     },
     "8975884891": {
+      "credit": 0,
+      "demo": 0
+    },
+    "8999235790": {
+      "credit": 0,
+      "demo": 0
+    },
+    "8022739720": {
       "credit": 0,
       "demo": 0
     }
@@ -1411,5 +1417,5 @@
   },
   "GLOBAL_LOCK": false,
   "LOCKED_USERS": [],
-  "SIGNATURE": "86373b6e1df9b4e2b163ef4cba464f694e1b6ff00aa8fbcea80c995672911e2b"
+  "SIGNATURE": "5111af9919324da2702e11086f4b9d11f81afb366afd42a290f0a6d7e514e77d"
 }
